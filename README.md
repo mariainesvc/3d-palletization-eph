@@ -1,4 +1,4 @@
-# 3D Palletization — Thesis
+# 3D Palletization - Thesis
 
 Code developed as part of my Master's thesis on 3D palletization.
 
